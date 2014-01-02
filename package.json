@@ -1,0 +1,25 @@
+{
+  "name": "SlotCarRacer",
+  "namePretty": "Slot Car Racer",
+  "version": "0.0.1",
+  "description": "Make your own track and race it!",
+  "repository": {
+    "type": "git",
+    "url": "https://mandarinx@github.com/mandarinx/SlotCarRacer.git"
+  },
+  "author": "Thomas Viktil",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-watch": "~0.3.1",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-exec": "0.4.2",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-open": "~0.2.0",
+    "grunt-replace": "~0.5.1",
+    "grunt-mkdir": "~0.1.1"
+  }
+}

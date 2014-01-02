@@ -35,7 +35,8 @@ module.exports = function (grunt) {
                         'assets/atlas', 'assets/maps', 'assets/audio',
                         'deploy',
                         'resources',
-                        'src/css', 'src/js', 'src/lib'
+                        'src/css', 'src/js', 'src/lib',
+                        'tasks'
                     ]
                 },
             },

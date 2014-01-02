@@ -174,7 +174,6 @@ module.exports = function (grunt) {
         connect: {
             root: {
                 options: {
-                    // keepalive: true,
                     port: 80,
                     base: './deploy',
                     livereload: true

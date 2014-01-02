@@ -131,7 +131,7 @@ module.exports = function (grunt) {
         },
 
         texturepacker: {
-            boxes: {
+            misc: {
                 targetdir: '<%= dir.deploy.atlas %>',
                 dirs: [
                     '<%= dir.assets.atlas %>boxes',

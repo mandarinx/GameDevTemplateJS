@@ -1,14 +1,14 @@
 {
-  "name": "SlotCarRacer",
-  "namePretty": "Slot Car Racer",
+  "name": "GameDevTemplateJS",
+  "namePretty": "Game Development Template for Javascript games",
   "version": "0.0.1",
-  "description": "Make your own track and race it!",
+  "description": "A starting point for learning how to use Node.js and Grunt for developing Javascript games.",
   "repository": {
     "type": "git",
-    "url": "https://mandarinx@github.com/mandarinx/SlotCarRacer.git"
+    "url": "https://github.com/mandarinx/GameDevTemplateJS"
   },
   "author": "Thomas Viktil",
-  "license": "MIT",
+  "license": "GPL v2",
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-concat": "~0.3.0",

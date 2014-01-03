@@ -122,8 +122,8 @@ module.exports = function (grunt) {
         uglify: {
             game: {
                 options: {
-                    banner: '/*! Slot Car Racer <%= pkg.version %> | ' +
-                            '(c) 2013 Mandarin */ \n'
+                    banner: '/*! GameDevTemplateJS <%= pkg.version %> | ' +
+                            '(c) 2013 Thomas Viktil */ \n'
                 },
                 src: ['<%= concat.game.dest %>'],
                 dest: '<%= dir.deploy.js %>/<%= pkg.name %>.min.js'
